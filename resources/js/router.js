@@ -73,19 +73,3 @@ const router = createRouter({
 });
 
 export default router;
-
-/* {
-    name: 'books',
-    path: '/books',
-    component: Books
-},
-{
-    name: 'addbook',
-    path: '/books/add',
-    component: AddBook
-},
-{
-    name: 'editbook',
-    path: '/books/edit/:id',
-    component: EditBook
-}, */
